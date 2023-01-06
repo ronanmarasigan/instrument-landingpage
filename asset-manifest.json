@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instrument-landingpage/static/css/main.29fc774e.css",
+    "main.js": "/instrument-landingpage/static/js/main.5895d5b0.js",
+    "index.html": "/instrument-landingpage/index.html",
+    "main.29fc774e.css.map": "/instrument-landingpage/static/css/main.29fc774e.css.map",
+    "main.5895d5b0.js.map": "/instrument-landingpage/static/js/main.5895d5b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29fc774e.css",
+    "static/js/main.5895d5b0.js"
+  ]
+}
